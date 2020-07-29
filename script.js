@@ -57,7 +57,7 @@ window.onload = function(){
         }else{
             notify("wrong")
         }
-        // handling times of trying , "count" declared on top
+        // trying count section
         
         if(count>=0){
             document.getElementById("id-left").innerText = count+" try left";

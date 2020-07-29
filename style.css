@@ -131,28 +131,28 @@ input[type='text']:focus {
 
 .button:hover {
     box-shadow: 0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee,
-        0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
+                0 5px 50px 0 #15f4ee inset, 0 5px 50px 0 #15f4ee;
 
 }
 
 .generate-btn:hover {
     box-shadow: 0 5px 60px 0 #FF3C5F inset, 0 5px 70px 0 #FF6347,
-        0 5px 60px 0 #FF3C5F inset, 0 5px 70px 0 #FF6347;
+                0 5px 60px 0 #FF3C5F inset, 0 5px 70px 0 #FF6347;
 
 }
 
 .submit-btn:hover {
     box-shadow: 0 5px 60px 0 green inset, 0 5px 70px 0 green,
-        0 5px 60px 0 green inset, 0 5px 70px 0 green;
+                0 5px 60px 0 green inset, 0 5px 70px 0 green;
 
 }
 
 .back-space:hover {
     box-shadow: 0 5px 60px 0 #00FF7F inset, 0 5px 70px 0 #00FF7F,
-        0 5px 60px 0 #00FF7F inset, 0 5px 70px 0 #00FF7F;
+                0 5px 60px 0 #00FF7F inset, 0 5px 70px 0 #00FF7F;
 }
 
 .clear:hover {
     box-shadow: 0 5px 60px 0 red inset, 0 5px 70px 0 red,
-        0 5px 60px 0 red inset, 0 5px 70px 0 red;
+                0 5px 60px 0 red inset, 0 5px 70px 0 red;
 }
